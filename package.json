@@ -1,0 +1,1 @@
+{"name": "god-ai-cli", "version": "1.0.0", "description": "AI Super Skills CLI (Mobile, Web, Tesla Level)", "bin": {"god-ai": "./index.js"}, "type": "module", "keywords": ["ai", "cli", "prompts", "developer"], "author": "angel100362207", "license": "MIT", "dependencies": {"fs-extra": "^11.2.0", "inquirer": "^9.0.0"}}
